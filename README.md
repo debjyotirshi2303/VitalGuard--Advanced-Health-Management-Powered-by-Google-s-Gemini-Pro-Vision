@@ -97,4 +97,4 @@ If you're still experiencing problems, feel free to reach out or open an issue.
 
 ## DEMO
 
-https://github.com/debjyotirshi2303/
+https://github.com/debjyotirshi2303/VitalGuard--Advanced-Health-Management-Powered-by-Google-s-Gemini-Pro-Vision/assets/75799417/e5779afc-9aa8-43cb-adbe-f7b9b5f28031
