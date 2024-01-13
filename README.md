@@ -2,7 +2,7 @@
 
 ## Introduction
 
-VitalGuard is a cutting-edge health management tool powered by Google's Gemini Pro-Vision, designed to transform nutritional awareness and personal health tracking. This innovative application uses advanced AI to analyze food items in images, accurately estimating total calorie intake. It then tailors dietary recommendations based on the user's age, promoting informed and healthier eating habits. Whether you're seeking to maintain a balanced diet, monitor calorie consumption, or receive personalized nutrition advice, VitalGuard offers a smart, intuitive solution to meet your dietary needs.
+VitalGuard is a cutting-edge health management tool powered by Google's Gemini Pro-Vision API, designed to revolutionize nutritional awareness and personal health tracking. This innovative application employs advanced AI, through the Gemini Pro-Vision API, to analyze food items in images and accurately estimate total calorie intake. It then leverages this technology to provide dietary recommendations that are tailored based on the user's age, fostering informed and healthier eating habits. Whether you're aiming to maintain a balanced diet, monitor calorie consumption, or seek personalized nutrition advice, VitalGuard offers a smart, intuitive solution. Harnessing the power of advanced AI and Google's API, it's an ideal tool for those who prioritize health and well-being in their daily lives.
 
 ## Requirements
 
